@@ -6,4 +6,5 @@ services:
         - ./app:/app
       ports:
         - "80:80"
+    #   command: pip install PyGuitarPro
 
