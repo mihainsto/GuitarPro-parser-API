@@ -1,0 +1,3 @@
+build:
+  docker:
+    parser-microservice: Dockerfile
